@@ -1,4 +1,4 @@
-# Spark Homework: Exploring Spark UI
+# Exploring Spark UI
 
 This assignment focuses on understanding how Spark executes transformations and actions by analyzing **Spark UI** job execution.
 
